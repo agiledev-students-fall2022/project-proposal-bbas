@@ -5,7 +5,7 @@
 Study Buddy
 
 ## The Problem
-Have you ever waited until the last minute to print out a required sheet for class the next morning just to find out that your printer ran out of ink, or even worse, you don't even have a printer? This is precisely where Study Buddy comes in. 
+Across the United States, millions of students struggle to complete their schoolwork due to not being able to find or access the resources they need to succeed. This can stem from economic/circumstantial hardship, learning disabilities, or simply a lack of time management skills (which can lead to the stressful task of trying to find a printer two minutes before class starts).
 
 ## The Solution
 *Study Buddy* is a way for students to ensure they can always find the resources they need with just a quick search. The app will be a hub for finding organizations that provide services like computer/internet usage, printing, copying, etc. Organizations will also be able to "claim" their profiles to provide a more accurate description of their services.
