@@ -2,10 +2,10 @@
 *by: <u>**B**</u>en Schwartz, <u>**A**</u>bigail Zhou, <u>**B**</u>randon Somoza, <u>**S**</u>hay Gyawali*
 
 ## Title
-Study Buddy *(working title)*
+Study Buddy
 
 ## The Problem
-Across the United States, millions of children lack access to basic resources such as the internet, a printer, or even a computer. This can severely hinder their ability to receive the same quality of education as that of their classmates.
+Have you ever waited until the last minute to print out a required sheet for class the next morning just to find out that your printer ran out of ink, or even worse, you don't even have a printer? This is precisely where Study Buddy comes in. 
 
 ## The Solution
 *Study Buddy* is a way for students to ensure they can always find the resources they need with just a quick search. The app will be a hub for finding organizations that provide services like computer/internet usage, printing, copying, etc. Organizations will also be able to "claim" their profiles to provide a more accurate description of their services.
