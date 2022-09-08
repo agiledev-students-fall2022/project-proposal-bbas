@@ -1,5 +1,5 @@
 # BABS Project Proposal
-*by: <u>**B**</u>en Schwartz, <u>**A**</u>bigail Zhou, <u>**B**</u>randon Samoza, <u>**S**</u>hay Gyawali*
+*by: <u>**B**</u>en Schwartz, <u>**A**</u>bigail Zhou, <u>**B**</u>randon Somoza, <u>**S**</u>hay Gyawali*
 
 ## Title
 Study Buddy *(working title)*
